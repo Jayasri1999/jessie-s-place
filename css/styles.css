@@ -1,0 +1,142 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color:#40514E;
+
+}
+h1{
+  font-size: 5.625rem;
+  margin-top: 50px auto 0 auto;
+  color: #99b898;
+  font-family: 'Kaushan Script', cursive;
+}
+h2{
+font-family: 'Montserrat Alternates', sans-serif;
+font-size: 2.5rem;
+color: #99b898;
+}
+.sub{
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat Alternates', sans-serif;
+  color:#e84a5f;
+}
+.top-container{
+  background-color: #feceab;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+padding:50px 0;
+}
+.bottom-container{
+background-color: #ff847c;
+padding-top: 30px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+.top-cloud{
+  position:absolute;
+  top: 50px;
+  right: 300px;
+}
+.cat{
+  margin-top: 20px;
+}
+.line{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+a{
+  color: #e84a5f;
+}
+.skill-row{
+  margin: 100px auto;
+  height: 50%;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.bingeimg{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.eatimg{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr{
+  border-bottom: none;
+  width: 5%;
+  border-left: none;
+  border-top: 7px dotted;
+  color: #feceab;
+}
+.copyright{
+  color: #feceab;
+  text-decoration: none;
+  padding-bottom: 30px;
+  margin-bottom: 0px;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.footer-link{
+  display: inline-block;
+  width: 100px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #99b898;
+}
+.contact-me{
+  padding: 50px 0;
+}
+
+.btn {
+  background: #e84a5f;
+  background-image: -webkit-linear-gradient(top, #e84a5f, #99b898);
+  background-image: -moz-linear-gradient(top, #e84a5f, #99b898);
+  background-image: -ms-linear-gradient(top, #e84a5f, #99b898);
+  background-image: -o-linear-gradient(top, #e84a5f, #99b898);
+  background-image: linear-gradient(to bottom, #e84a5f, #99b898);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #99b898;
+  background-image: -webkit-linear-gradient(top, #99b898, #feceab);
+  background-image: -moz-linear-gradient(top, #99b898, #feceab);
+  background-image: -ms-linear-gradient(top, #99b898, #feceab);
+  background-image: -o-linear-gradient(top, #99b898, #feceab);
+  background-image: linear-gradient(to bottom, #99b898, #feceab);
+  text-decoration: none;
+}
+.profile{
+  padding-bottom: 30px;
+}
+.skills{
+  padding-top: 20px;
+}
+.touch{
+  padding-bottom: 30px;
+}
+.love{
+  padding-bottom: 30px;
+}
+.fav{
+  margin-bottom: 50px;
+}
